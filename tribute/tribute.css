@@ -1,0 +1,32 @@
+img {
+    display: block;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#caption {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -15px;
+}
+
+#tribute-info {
+    font-family: "Montserrat", "Avenir", "Segeo UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+ul, li {
+    font-size: 15px;
+}
