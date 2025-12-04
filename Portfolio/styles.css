@@ -31,6 +31,14 @@ ul {
     margin-top: 5vh;
 }
 
+ul a {
+    margin: 0 16vh 0 16vh;
+}
+
+ul img {
+    margin: 0 25px 0 25px;
+}
+
 #project-tile {
     display: grid;
     grid-template-columns: 1rf 1rf 1rf;
@@ -70,4 +78,8 @@ p {
 img {
     height: 20%;
     width: 20%;
+}
+
+li a {
+    margin-left: 12vh
 }
